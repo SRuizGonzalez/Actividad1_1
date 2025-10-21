@@ -9,4 +9,3 @@
 [Ejercicio3](https://github.com/SRuizGonzalez/Prueba2_Samuel/blob/main/Ejercicio3.md)
 
 [Ejercicio4](https://github.com/SRuizGonzalez/Prueba2_Samuel/blob/main/Ejercicio4.md)
-v hgch
